@@ -1,0 +1,2 @@
+# TicTacToe
+just training logic
